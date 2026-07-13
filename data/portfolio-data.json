@@ -42,6 +42,25 @@
     "newFlow":["提前筛选并储备IP","批量完成角色与线上视觉","线下物料并行制作","物料到货后快速组装","集中上线多套IP服务包"],
     "themes":["鸡排人格测试","吗喽摆烂实录","Emoji人生","猫狗双IP","负鼠IP","哈基米馋疯实录","贪吃哈基米香学研究"]
   },
+  "multiProjectImpact": {
+    "question":"能否在同一时间管理并交付多个不同类型的重点项目？",
+    "conclusion":"近三个月同一工作周期内，同时推进工具研发、内容生产、品牌活动和业务服务包四类工作，共7条项目线并行产出。通过统一收集需求、判断优先级、拆分里程碑、设置审核节点和分渠道交付，在多个项目互相交叉的情况下保持持续推进。",
+    "period":"近三个月 · 同一周期并行推进",
+    "projectCount":7,
+    "workTypes":4,
+    "managementStatus":"多项目并行交付",
+    "projects":[
+      {"name":"移动端生图 Agent","type":"工具研发","output":"功能与推荐逻辑持续迭代"},
+      {"name":"语音 Agent","type":"工具研发","output":"门店定制语音能力建设"},
+      {"name":"宣传视频","type":"内容生产","output":"鸡王主题与商业视频持续输出"},
+      {"name":"世界杯整体项目","type":"品牌活动","output":"主KV、套餐视觉、视频与传播延展"},
+      {"name":"小红书整体项目","type":"内容运营","output":"内容方案与服务包支持"},
+      {"name":"自助炸鸡","type":"品牌升级","output":"品牌色、标识、包装与菜单升级"},
+      {"name":"新品服务包","type":"业务交付","output":"产品视觉、物料与上线内容同步推进"}
+    ],
+    "managementFlow":["统一收集需求","判断业务优先级","拆分项目里程碑","多条任务并行推进","关键节点集中审核","按渠道完成交付","结果记录与复盘"],
+    "managementValue":["在工具研发、品牌活动和日常业务之间动态分配时间","将大项目拆成可审核的小节点，减少集中返工","复用AI、IP、产品图和视频能力，支持多项目同步推进","按业务紧急度和交付节点调整优先级，而非单项目串行等待"]
+  },
   "servicePackage": {
     "totals":{"independentPackages":8,"independentUseCount":655,"assistedProducts":9,"assistedPackages":18,"assistedUseCount":6121,"totalPackages":26,"totalUseCount":6776,"assistedUseShare":"90.3%"},
     "independentPackages":[
