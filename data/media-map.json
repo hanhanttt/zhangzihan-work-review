@@ -2,7 +2,7 @@
   "instructions": "全部素材已按项目归位。图片为网页优化副本，视频保留原文件；group 控制轮播分类标签。",
   "projects": [
     {
-      "projectId": "service-pack",
+      "projectId": "ip-service-pack",
       "items": [
         {
           "id": "sp-ip-001",
@@ -246,7 +246,12 @@
           "caption": "吗喽摆烂实录｜产品、IP 与门店传播内容",
           "group": "吗喽摆烂实录",
           "originalFile": "服务包上新图.png"
-        },
+        }
+      ]
+    },
+    {
+      "projectId": "service-pack",
+      "items": [
         {
           "id": "sp-data-001",
           "type": "image",
@@ -698,7 +703,15 @@
     {
       "projectId": "voice-agent",
       "items": [
-        {"id":"voice-agent-01","type":"image","src":"assets/voice-agent/voice-agent-01.jpg","title":"语音生成 Agent 工作台","caption":"在同一页面完成门店促销文本输入、直接输出或文案优化、音色选择、试听下载与偏好推荐，将门店语音制作整合为可直接使用的标准流程。","group":"语音生成工作流","originalFile":"58f925fe87fa6fbe6e020ad612196550.png"}
+        {
+          "id": "voice-agent-01",
+          "type": "image",
+          "src": "assets/voice-agent/voice-agent-01.jpg",
+          "title": "语音生成 Agent 工作台",
+          "caption": "在同一页面完成门店促销文本输入、直接输出或文案优化、音色选择、试听下载与偏好推荐，将门店语音制作整合为可直接使用的标准流程。",
+          "group": "语音生成工作流",
+          "originalFile": "58f925fe87fa6fbe6e020ad612196550.png"
+        }
       ]
     },
     {
@@ -2080,12 +2093,13 @@
     }
   ],
   "counts": {
-    "service-pack": 66,
+    "service-pack": 39,
     "image-agent": 10,
     "voice-agent": 1,
     "mobile-image-platform": 7,
     "white-background": 96,
     "brand-video": 9,
-    "brand-campaign": 38
+    "brand-campaign": 38,
+    "ip-service-pack": 27
   }
 }
