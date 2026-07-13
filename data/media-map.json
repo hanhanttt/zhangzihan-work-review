@@ -697,7 +697,9 @@
     },
     {
       "projectId": "voice-agent",
-      "items": []
+      "items": [
+        {"id":"voice-agent-01","type":"image","src":"assets/voice-agent/voice-agent-01.jpg","title":"语音生成 Agent 工作台","caption":"在同一页面完成门店促销文本输入、直接输出或文案优化、音色选择、试听下载与偏好推荐，将门店语音制作整合为可直接使用的标准流程。","group":"语音生成工作流","originalFile":"58f925fe87fa6fbe6e020ad612196550.png"}
+      ]
     },
     {
       "projectId": "mobile-image-platform",
@@ -2080,7 +2082,7 @@
   "counts": {
     "service-pack": 66,
     "image-agent": 10,
-    "voice-agent": 0,
+    "voice-agent": 1,
     "mobile-image-platform": 7,
     "white-background": 96,
     "brand-video": 9,
