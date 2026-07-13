@@ -1,0 +1,2089 @@
+{
+  "instructions": "全部素材已按项目归位。图片为网页优化副本，视频保留原文件；group 控制轮播分类标签。",
+  "projects": [
+    {
+      "projectId": "service-pack",
+      "items": [
+        {
+          "id": "sp-ip-001",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-001.small.jpg",
+          "title": "Image (43)",
+          "caption": "吗喽 IP 角色素材｜产品、IP 与门店传播内容",
+          "group": "吗喽 IP 角色素材",
+          "originalFile": "Image (43).png"
+        },
+        {
+          "id": "sp-ip-002",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-002.small.jpg",
+          "title": "Image (44)",
+          "caption": "Emoji IP 主题视觉｜产品、IP 与门店传播内容",
+          "group": "Emoji IP 主题视觉",
+          "originalFile": "Image (44).png"
+        },
+        {
+          "id": "sp-ip-003",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-003.small.jpg",
+          "title": "Image (45)",
+          "caption": "哈基米馋疯实录｜产品、IP 与门店传播内容",
+          "group": "哈基米馋疯实录",
+          "originalFile": "Image (45).png"
+        },
+        {
+          "id": "sp-ip-004",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-004.small.jpg",
+          "title": "Image (46)",
+          "caption": "吗喽摆烂实录｜产品、IP 与门店传播内容",
+          "group": "吗喽摆烂实录",
+          "originalFile": "Image (46).png"
+        },
+        {
+          "id": "sp-ip-005",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-005.small.jpg",
+          "title": "Image (47)",
+          "caption": "哈基米香学研究｜产品、IP 与门店传播内容",
+          "group": "哈基米香学研究",
+          "originalFile": "Image (47).png"
+        },
+        {
+          "id": "sp-ip-006",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-006.small.jpg",
+          "title": "Image (48)",
+          "caption": "猫狗双 IP｜产品、IP 与门店传播内容",
+          "group": "猫狗双 IP",
+          "originalFile": "Image (48).png"
+        },
+        {
+          "id": "sp-ip-007",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-007.small.jpg",
+          "title": "Image (49)",
+          "caption": "吗喽摆烂实录｜产品、IP 与门店传播内容",
+          "group": "吗喽摆烂实录",
+          "originalFile": "Image (49).png"
+        },
+        {
+          "id": "sp-ip-008",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-008.small.jpg",
+          "title": "Image (51)",
+          "caption": "鸡排人格测试｜产品、IP 与门店传播内容",
+          "group": "鸡排人格测试",
+          "originalFile": "Image (51).png"
+        },
+        {
+          "id": "sp-ip-009",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-009.small.jpg",
+          "title": "Image (52)",
+          "caption": "鸡排人格测试｜产品、IP 与门店传播内容",
+          "group": "鸡排人格测试",
+          "originalFile": "Image (52).png"
+        },
+        {
+          "id": "sp-ip-010",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-010.small.jpg",
+          "title": "Image 44",
+          "caption": "猫狗双 IP｜产品、IP 与门店传播内容",
+          "group": "猫狗双 IP",
+          "originalFile": "Image 44.png"
+        },
+        {
+          "id": "sp-ip-011",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-011.small.jpg",
+          "title": "Image 45",
+          "caption": "猫狗双 IP｜产品、IP 与门店传播内容",
+          "group": "猫狗双 IP",
+          "originalFile": "Image 45.png"
+        },
+        {
+          "id": "sp-ip-012",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-012.small.jpg",
+          "title": "Image 46 (1)",
+          "caption": "吗喽摆烂实录｜产品、IP 与门店传播内容",
+          "group": "吗喽摆烂实录",
+          "originalFile": "Image 46 (1).png"
+        },
+        {
+          "id": "sp-ip-013",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-013.small.jpg",
+          "title": "Image 46 (2)",
+          "caption": "吗喽摆烂实录｜产品、IP 与门店传播内容",
+          "group": "吗喽摆烂实录",
+          "originalFile": "Image 46 (2).png"
+        },
+        {
+          "id": "sp-ip-014",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-014.small.jpg",
+          "title": "Image 46 (3)",
+          "caption": "吗喽摆烂实录｜产品、IP 与门店传播内容",
+          "group": "吗喽摆烂实录",
+          "originalFile": "Image 46 (3).png"
+        },
+        {
+          "id": "sp-ip-015",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-015.small.jpg",
+          "title": "Image 46",
+          "caption": "吗喽摆烂实录｜产品、IP 与门店传播内容",
+          "group": "吗喽摆烂实录",
+          "originalFile": "Image 46.png"
+        },
+        {
+          "id": "sp-ip-016",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-016.small.jpg",
+          "title": "Image 47 (1)",
+          "caption": "哈基米角色素材｜产品、IP 与门店传播内容",
+          "group": "哈基米角色素材",
+          "originalFile": "Image 47 (1).png"
+        },
+        {
+          "id": "sp-ip-017",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-017.small.jpg",
+          "title": "Image 47",
+          "caption": "哈基米角色素材｜产品、IP 与门店传播内容",
+          "group": "哈基米角色素材",
+          "originalFile": "Image 47.png"
+        },
+        {
+          "id": "sp-ip-018",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-018.small.jpg",
+          "title": "Image 48",
+          "caption": "哈基米角色素材｜产品、IP 与门店传播内容",
+          "group": "哈基米角色素材",
+          "originalFile": "Image 48.png"
+        },
+        {
+          "id": "sp-ip-019",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-019.small.jpg",
+          "title": "Image 71",
+          "caption": "鸡排人格测试｜产品、IP 与门店传播内容",
+          "group": "鸡排人格测试",
+          "originalFile": "Image 71.png"
+        },
+        {
+          "id": "sp-ip-020",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-020.small.jpg",
+          "title": "group (1)",
+          "caption": "IP 周边物料总览｜产品、IP 与门店传播内容",
+          "group": "IP 周边物料总览",
+          "originalFile": "group (1).png"
+        },
+        {
+          "id": "sp-ip-021",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-021.small.jpg",
+          "title": "group (3)",
+          "caption": "Emoji 角色体系｜产品、IP 与门店传播内容",
+          "group": "Emoji 角色体系",
+          "originalFile": "group (3).png"
+        },
+        {
+          "id": "sp-ip-022",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-022.small.jpg",
+          "title": "group (4)",
+          "caption": "吗喽摆烂实录｜产品、IP 与门店传播内容",
+          "group": "吗喽摆烂实录",
+          "originalFile": "group (4).png"
+        },
+        {
+          "id": "sp-ip-023",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-023.small.jpg",
+          "title": "group (5)",
+          "caption": "吗喽摆烂实录｜产品、IP 与门店传播内容",
+          "group": "吗喽摆烂实录",
+          "originalFile": "group (5).png"
+        },
+        {
+          "id": "sp-ip-024",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-024.small.jpg",
+          "title": "信发2",
+          "caption": "吗喽摆烂实录｜产品、IP 与门店传播内容",
+          "group": "吗喽摆烂实录",
+          "originalFile": "信发2.png"
+        },
+        {
+          "id": "sp-ip-025",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-025.small.jpg",
+          "title": "信发3",
+          "caption": "吗喽摆烂实录｜产品、IP 与门店传播内容",
+          "group": "吗喽摆烂实录",
+          "originalFile": "信发3.png"
+        },
+        {
+          "id": "sp-ip-026",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-026.small.jpg",
+          "title": "服务包上新图 (1)",
+          "caption": "吗喽摆烂实录｜产品、IP 与门店传播内容",
+          "group": "吗喽摆烂实录",
+          "originalFile": "服务包上新图 (1).png"
+        },
+        {
+          "id": "sp-ip-027",
+          "type": "image",
+          "src": "assets/service-pack/sp-ip-027.small.jpg",
+          "title": "服务包上新图",
+          "caption": "吗喽摆烂实录｜产品、IP 与门店传播内容",
+          "group": "吗喽摆烂实录",
+          "originalFile": "服务包上新图.png"
+        },
+        {
+          "id": "sp-data-001",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-001.jpg",
+          "title": "17594977fb54ac3e63d5206a74dd9ce3",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "17594977fb54ac3e63d5206a74dd9ce3.png"
+        },
+        {
+          "id": "sp-data-002",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-002.jpg",
+          "title": "18e53924256d16d158fa0332d81af4a3",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "18e53924256d16d158fa0332d81af4a3.png"
+        },
+        {
+          "id": "sp-data-003",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-003.jpg",
+          "title": "2045b04f7d513f2edf44c7aa8367945e",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "2045b04f7d513f2edf44c7aa8367945e.png"
+        },
+        {
+          "id": "sp-data-004",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-004.jpg",
+          "title": "2aaf303d314227304a826ff07b16da93",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "2aaf303d314227304a826ff07b16da93.png"
+        },
+        {
+          "id": "sp-data-005",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-005.jpg",
+          "title": "32d4bcde885aa1b3a300e4cb7bebe1a1",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "32d4bcde885aa1b3a300e4cb7bebe1a1.png"
+        },
+        {
+          "id": "sp-data-006",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-006.jpg",
+          "title": "3f3a5eb0f133421f36b6cabfe431f59b",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "3f3a5eb0f133421f36b6cabfe431f59b.png"
+        },
+        {
+          "id": "sp-data-007",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-007.jpg",
+          "title": "4c14661b9d9aff599469a1552805fa3f",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "4c14661b9d9aff599469a1552805fa3f.png"
+        },
+        {
+          "id": "sp-data-008",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-008.small.jpg",
+          "title": "4eb91f792c97a9f69915ca7d8bb42999",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "4eb91f792c97a9f69915ca7d8bb42999.png"
+        },
+        {
+          "id": "sp-data-009",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-009.jpg",
+          "title": "4ee76fb68efaee4188be7877eb6e323e",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "4ee76fb68efaee4188be7877eb6e323e.png"
+        },
+        {
+          "id": "sp-data-010",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-010.jpg",
+          "title": "59c2583eb753acb7b444239635b48384",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "59c2583eb753acb7b444239635b48384.png"
+        },
+        {
+          "id": "sp-data-011",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-011.jpg",
+          "title": "626782964b0083686862ac6ddc19cd62",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "626782964b0083686862ac6ddc19cd62.png"
+        },
+        {
+          "id": "sp-data-012",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-012.small.jpg",
+          "title": "6843b8b6b3b9c12cbf1d22b73315671a",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "6843b8b6b3b9c12cbf1d22b73315671a.png"
+        },
+        {
+          "id": "sp-data-013",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-013.jpg",
+          "title": "6a19034f0d5bfd0918c538dd68f69f68",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "6a19034f0d5bfd0918c538dd68f69f68.png"
+        },
+        {
+          "id": "sp-data-014",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-014.jpg",
+          "title": "6ff7b42a6105b2d4ec0e82f6282a03cd",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "6ff7b42a6105b2d4ec0e82f6282a03cd.png"
+        },
+        {
+          "id": "sp-data-015",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-015.jpg",
+          "title": "75337a84d60edeb9e2a994a0a7ab9dbc",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "75337a84d60edeb9e2a994a0a7ab9dbc.png"
+        },
+        {
+          "id": "sp-data-016",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-016.jpg",
+          "title": "8256ed224febe32c73153f2c22e2ae7f",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "8256ed224febe32c73153f2c22e2ae7f.png"
+        },
+        {
+          "id": "sp-data-017",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-017.jpg",
+          "title": "aa515eccdb2ecff75b7b870a0022c25f",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "aa515eccdb2ecff75b7b870a0022c25f.png"
+        },
+        {
+          "id": "sp-data-018",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-018.jpg",
+          "title": "d467b75c1d27c7a218a0d423c8663427",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "d467b75c1d27c7a218a0d423c8663427.png"
+        },
+        {
+          "id": "sp-data-019",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-019.jpg",
+          "title": "e3528dc8b3e3eeef8f5b9191219c44c2",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "e3528dc8b3e3eeef8f5b9191219c44c2.png"
+        },
+        {
+          "id": "sp-data-020",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-020.small.jpg",
+          "title": "e983e274355ef0cf3915af6d8cadef5d",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "e983e274355ef0cf3915af6d8cadef5d.png"
+        },
+        {
+          "id": "sp-data-021",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-021.small.jpg",
+          "title": "ea737d6655dd56330e0f808afc786b25",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "ea737d6655dd56330e0f808afc786b25.png"
+        },
+        {
+          "id": "sp-data-022",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-022.jpg",
+          "title": "ec6bcfb86f394e5938db48628aec047e",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "ec6bcfb86f394e5938db48628aec047e.png"
+        },
+        {
+          "id": "sp-data-023",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-023.small.jpg",
+          "title": "fbfe9c8f4a6aed62dcc29ceb7f3a4dd0",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "fbfe9c8f4a6aed62dcc29ceb7f3a4dd0.png"
+        },
+        {
+          "id": "sp-data-024",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-024.small.jpg",
+          "title": "fea459dc80f8e8ac4abc8caaa07ed821",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "fea459dc80f8e8ac4abc8caaa07ed821.png"
+        },
+        {
+          "id": "sp-data-025",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-025.jpg",
+          "title": "截屏2026-07-12 15.19.48",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "截屏2026-07-12 15.19.48.png"
+        },
+        {
+          "id": "sp-data-026",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-026.jpg",
+          "title": "截屏2026-07-12 15.20.00",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "截屏2026-07-12 15.20.00.png"
+        },
+        {
+          "id": "sp-data-027",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-027.jpg",
+          "title": "截屏2026-07-12 15.20.36",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "截屏2026-07-12 15.20.36.png"
+        },
+        {
+          "id": "sp-data-028",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-028.jpg",
+          "title": "截屏2026-07-12 15.30.27",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "截屏2026-07-12 15.30.27.png"
+        },
+        {
+          "id": "sp-data-029",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-029.jpg",
+          "title": "截屏2026-07-12 15.31.01",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "截屏2026-07-12 15.31.01.png"
+        },
+        {
+          "id": "sp-data-030",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-030.jpg",
+          "title": "截屏2026-07-12 15.31.32",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "截屏2026-07-12 15.31.32.png"
+        },
+        {
+          "id": "sp-data-031",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-031.jpg",
+          "title": "截屏2026-07-12 15.32.57",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "截屏2026-07-12 15.32.57.png"
+        },
+        {
+          "id": "sp-data-032",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-032.jpg",
+          "title": "截屏2026-07-12 15.33.06",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "截屏2026-07-12 15.33.06.png"
+        },
+        {
+          "id": "sp-data-033",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-033.jpg",
+          "title": "截屏2026-07-12 15.33.38",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "截屏2026-07-12 15.33.38.png"
+        },
+        {
+          "id": "sp-data-034",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-034.jpg",
+          "title": "截屏2026-07-12 15.34.10",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "截屏2026-07-12 15.34.10.png"
+        },
+        {
+          "id": "sp-data-035",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-035.jpg",
+          "title": "截屏2026-07-12 15.35.04",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "截屏2026-07-12 15.35.04.png"
+        },
+        {
+          "id": "sp-data-036",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-036.jpg",
+          "title": "截屏2026-07-12 15.35.30",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "截屏2026-07-12 15.35.30.png"
+        },
+        {
+          "id": "sp-data-037",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-037.jpg",
+          "title": "截屏2026-07-12 15.35.44",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "截屏2026-07-12 15.35.44.png"
+        },
+        {
+          "id": "sp-data-038",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-038.jpg",
+          "title": "截屏2026-07-12 15.36.51",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "截屏2026-07-12 15.36.51.png"
+        },
+        {
+          "id": "sp-data-039",
+          "type": "image",
+          "src": "assets/service-pack/sp-data-039.jpg",
+          "title": "截屏2026-07-12 15.38.58",
+          "caption": "原始服务包页面或后台数据截图；用于支撑总使用次数口径",
+          "group": "产品服务包与后台数据证据",
+          "originalFile": "截屏2026-07-12 15.38.58.png"
+        }
+      ]
+    },
+    {
+      "projectId": "image-agent",
+      "items": [
+        {
+          "id": "image-agent-01",
+          "type": "image",
+          "src": "assets/image-agent/image-agent-01.jpg",
+          "title": "品牌物料库与需求配置",
+          "caption": "集中管理产品、包装与品牌素材，并在同一页面配置产品需求，减少跨部门找图和重复沟通。",
+          "group": "素材与模板标准化",
+          "originalFile": "截屏2026-07-13 09.35.58.png"
+        },
+        {
+          "id": "image-agent-02",
+          "type": "image",
+          "src": "assets/image-agent/image-agent-02.jpg",
+          "title": "模板库快速选用",
+          "caption": "将常用促销海报沉淀为可复用模板，业务人员可按产品和场景快速选择，缩短从需求到出图的路径。",
+          "group": "素材与模板标准化",
+          "originalFile": "截屏2026-07-13 09.36.20.png"
+        },
+        {
+          "id": "image-agent-03",
+          "type": "image",
+          "src": "assets/image-agent/image-agent-03.jpg",
+          "title": "品牌素材与参数化配置",
+          "caption": "在品牌物料库中选择产品素材、画面比例和生成参数，让不同部门输出的图片保持品牌与规格统一。",
+          "group": "素材与模板标准化",
+          "originalFile": "截屏2026-07-13 09.36.41.png"
+        },
+        {
+          "id": "image-agent-04",
+          "type": "image",
+          "src": "assets/image-agent/image-agent-04.jpg",
+          "title": "对话式 AI 智能体生图",
+          "caption": "基于爆品部和品牌部门的生图需求持续迭代：通过自然语言输入需求，由智能体完成创意简报、视觉方案、参考图分析、生图指令策划和图片处理。",
+          "group": "智能生成工作流",
+          "originalFile": "截屏2026-07-13 09.36.52.png"
+        },
+        {
+          "id": "image-agent-05",
+          "type": "image",
+          "src": "assets/image-agent/image-agent-05.jpg",
+          "title": "物料管理与资产沉淀",
+          "caption": "基于爆品部和品牌部门的素材管理需求持续迭代：统一维护产品名称、图片、描述和业务信息，支撑素材复用及后续模板生成。",
+          "group": "平台管理能力",
+          "originalFile": "截屏2026-07-13 09.37.01.png"
+        },
+        {
+          "id": "image-agent-06",
+          "type": "image",
+          "src": "assets/image-agent/image-agent-06.jpg",
+          "title": "模板管理与标准化生产",
+          "caption": "集中维护模板分类、画面结构和可替换区域，将成熟设计方案转化为稳定、可复制的生图流程。",
+          "group": "素材与模板标准化",
+          "originalFile": "截屏2026-07-13 09.37.13.png"
+        },
+        {
+          "id": "image-agent-07",
+          "type": "image",
+          "src": "assets/image-agent/image-agent-07.jpg",
+          "title": "账号与权限管理",
+          "caption": "基于爆品部和品牌部门的协同使用需求持续迭代：按内部账号和角色管理权限，为多个业务团队共同使用平台提供支持。",
+          "group": "平台管理能力",
+          "originalFile": "截屏2026-07-13 09.37.19.png"
+        },
+        {
+          "id": "image-agent-08",
+          "type": "image",
+          "src": "assets/image-agent/image-agent-08.jpg",
+          "title": "海报局部换色与改价",
+          "caption": "基于爆品部和品牌部门的快速改图需求持续迭代：通过模板或提示词修改颜色、价格等局部信息，减少整张海报重新制作。",
+          "group": "图片编辑与精修",
+          "originalFile": "截屏2026-07-13 09.37.46.png"
+        },
+        {
+          "id": "image-agent-09",
+          "type": "image",
+          "src": "assets/image-agent/image-agent-09.jpg",
+          "title": "图片图层处理与背景分离",
+          "caption": "基于爆品部和品牌部门的精细修图需求持续迭代：支持标点、画笔、局部抠除和背景分离，便于修复及元素替换。",
+          "group": "图片编辑与精修",
+          "originalFile": "截屏2026-07-13 09.37.56.png"
+        },
+        {
+          "id": "image-agent-10",
+          "type": "image",
+          "src": "assets/image-agent/image-agent-10.jpg",
+          "title": "IP 形象素材库与组合生图",
+          "caption": "基于爆品部和品牌部门的 IP 营销需求持续迭代：沉淀鸡王等品牌 IP 动作素材，并与产品、模板和营销场景组合。",
+          "group": "IP与品牌内容生产",
+          "originalFile": "截屏2026-07-13 09.39.28.png"
+        }
+      ]
+    },
+    {
+      "projectId": "voice-agent",
+      "items": []
+    },
+    {
+      "projectId": "mobile-image-platform",
+      "items": [
+        {
+          "id": "mobile-agent-01",
+          "type": "image",
+          "src": "assets/mobile-image-platform/mobile-agent-01.jpg",
+          "title": "推荐模板排名与推荐理由",
+          "caption": "新版推荐逻辑根据当前业务场景优先展示适用模板，并标注推荐顺序与理由，帮助用户更快找到可用方案。",
+          "group": "智能推荐逻辑",
+          "originalFile": "IMG_3127.PNG"
+        },
+        {
+          "id": "mobile-agent-02",
+          "type": "image",
+          "src": "assets/mobile-image-platform/mobile-agent-02.jpg",
+          "title": "模板与商品双维度推荐",
+          "caption": "推荐页可在模板和商品之间切换，并直接调用推荐商品生成，降低用户在素材库中的搜索与选择成本。",
+          "group": "智能推荐逻辑",
+          "originalFile": "IMG_3128.PNG"
+        },
+        {
+          "id": "mobile-agent-03",
+          "type": "image",
+          "src": "assets/mobile-image-platform/mobile-agent-03.jpg",
+          "title": "商品与模板组合生成",
+          "caption": "用户在手机端选择商品和海报模板后即可开始生成，把复杂的提示词和设计参数转化为直观选择流程。",
+          "group": "移动端快速生成",
+          "originalFile": "IMG_3129.PNG"
+        },
+        {
+          "id": "mobile-agent-04",
+          "type": "image",
+          "src": "assets/mobile-image-platform/mobile-agent-04.jpg",
+          "title": "对话式需求输入",
+          "caption": "用户可以直接说出想要的画面或文案，也可选择快捷生成任务，让移动端 Agent 理解需求并进入对应流程。",
+          "group": "移动端快速生成",
+          "originalFile": "IMG_3130.PNG"
+        },
+        {
+          "id": "mobile-agent-05",
+          "type": "image",
+          "src": "assets/mobile-image-platform/mobile-agent-05.jpg",
+          "title": "移动端品牌物料库",
+          "caption": "支持搜索、分类筛选和直接调用品牌商品素材，实现从物料选择到生成任务的移动端闭环。",
+          "group": "素材调用与复用",
+          "originalFile": "IMG_3131.PNG"
+        },
+        {
+          "id": "mobile-agent-06",
+          "type": "image",
+          "src": "assets/mobile-image-platform/mobile-agent-06.jpg",
+          "title": "移动端图片处理工具",
+          "caption": "支持上传图片并选择白底优化、透明抠图和清晰度优化，让常见产品图处理可在手机端直接完成。",
+          "group": "移动端图片处理",
+          "originalFile": "IMG_3132.PNG"
+        },
+        {
+          "id": "mobile-agent-07",
+          "type": "image",
+          "src": "assets/mobile-image-platform/mobile-agent-07.jpg",
+          "title": "生成记录与任务状态",
+          "caption": "集中查看已完成和生成中的任务，保留商品、模板及生成数量信息，方便用户追踪和继续使用。",
+          "group": "任务记录与追踪",
+          "originalFile": "IMG_3133.PNG"
+        }
+      ]
+    },
+    {
+      "projectId": "white-background",
+      "items": [
+        {
+          "id": "wb-1-001",
+          "type": "image",
+          "src": "assets/white-background/wb-1-001.jpg",
+          "title": "Image 1",
+          "caption": "第一批｜ Image 1｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": " Image 1.png"
+        },
+        {
+          "id": "wb-1-002",
+          "type": "image",
+          "src": "assets/white-background/wb-1-002.small.jpg",
+          "title": "Image",
+          "caption": "第一批｜ Image｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": " Image.png"
+        },
+        {
+          "id": "wb-1-003",
+          "type": "image",
+          "src": "assets/white-background/wb-1-003.small.jpg",
+          "title": "双拼酱汁炸鸡",
+          "caption": "第一批｜双拼酱汁炸鸡｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "双拼酱汁炸鸡.png"
+        },
+        {
+          "id": "wb-1-004",
+          "type": "image",
+          "src": "assets/white-background/wb-1-004.small.jpg",
+          "title": "年糕火鸡面-自然摆放版",
+          "caption": "第一批｜年糕火鸡面-自然摆放版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "年糕火鸡面-自然摆放版.png"
+        },
+        {
+          "id": "wb-1-005",
+          "type": "image",
+          "src": "assets/white-background/wb-1-005.small.jpg",
+          "title": "微信图片_20260528173017_232_18",
+          "caption": "第一批｜微信图片_20260528173017_232_18｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "微信图片_20260528173017_232_18.png"
+        },
+        {
+          "id": "wb-1-006",
+          "type": "image",
+          "src": "assets/white-background/wb-1-006.small.jpg",
+          "title": "微信图片_20260625145427_490_18",
+          "caption": "第一批｜微信图片_20260625145427_490_18｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "微信图片_20260625145427_490_18.png"
+        },
+        {
+          "id": "wb-1-007",
+          "type": "image",
+          "src": "assets/white-background/wb-1-007.jpg",
+          "title": "微信图片_20260625145430_491_18",
+          "caption": "第一批｜微信图片_20260625145430_491_18｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "微信图片_20260625145430_491_18.png"
+        },
+        {
+          "id": "wb-1-008",
+          "type": "image",
+          "src": "assets/white-background/wb-1-008.jpg",
+          "title": "微信图片_20260625180258_544_18",
+          "caption": "第一批｜微信图片_20260625180258_544_18｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "微信图片_20260625180258_544_18.jpg"
+        },
+        {
+          "id": "wb-1-009",
+          "type": "image",
+          "src": "assets/white-background/wb-1-009.small.jpg",
+          "title": "微信图片_20260625185223_554_18",
+          "caption": "第一批｜微信图片_20260625185223_554_18｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "微信图片_20260625185223_554_18.png"
+        },
+        {
+          "id": "wb-1-010",
+          "type": "image",
+          "src": "assets/white-background/wb-1-010.jpg",
+          "title": "微信图片_20260625185314_557_18",
+          "caption": "第一批｜微信图片_20260625185314_557_18｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "微信图片_20260625185314_557_18.png"
+        },
+        {
+          "id": "wb-1-011",
+          "type": "image",
+          "src": "assets/white-background/wb-1-011.jpg",
+          "title": "微信图片_20260625185321_558_18",
+          "caption": "第一批｜微信图片_20260625185321_558_18｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "微信图片_20260625185321_558_18.png"
+        },
+        {
+          "id": "wb-1-012",
+          "type": "image",
+          "src": "assets/white-background/wb-1-012.small.jpg",
+          "title": "微信图片_20260625185441_559_18",
+          "caption": "第一批｜微信图片_20260625185441_559_18｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "微信图片_20260625185441_559_18.png"
+        },
+        {
+          "id": "wb-1-013",
+          "type": "image",
+          "src": "assets/white-background/wb-1-013.small.jpg",
+          "title": "微信图片_20260625185449_560_18",
+          "caption": "第一批｜微信图片_20260625185449_560_18｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "微信图片_20260625185449_560_18.png"
+        },
+        {
+          "id": "wb-1-014",
+          "type": "image",
+          "src": "assets/white-background/wb-1-014.small.jpg",
+          "title": "微信图片_20260625185457_561_18",
+          "caption": "第一批｜微信图片_20260625185457_561_18｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "微信图片_20260625185457_561_18.png"
+        },
+        {
+          "id": "wb-1-015",
+          "type": "image",
+          "src": "assets/white-background/wb-1-015.small.jpg",
+          "title": "微信图片_20260625185504_562_18",
+          "caption": "第一批｜微信图片_20260625185504_562_18｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "微信图片_20260625185504_562_18.png"
+        },
+        {
+          "id": "wb-1-016",
+          "type": "image",
+          "src": "assets/white-background/wb-1-016.small.jpg",
+          "title": "微信图片_20260625185512_563_18",
+          "caption": "第一批｜微信图片_20260625185512_563_18｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "微信图片_20260625185512_563_18.png"
+        },
+        {
+          "id": "wb-1-017",
+          "type": "image",
+          "src": "assets/white-background/wb-1-017.small.jpg",
+          "title": "微信图片_20260625185520_564_18 (1)",
+          "caption": "第一批｜微信图片_20260625185520_564_18 (1)｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "微信图片_20260625185520_564_18 (1).png"
+        },
+        {
+          "id": "wb-1-018",
+          "type": "image",
+          "src": "assets/white-background/wb-1-018.small.jpg",
+          "title": "微信图片_20260625185520_564_18",
+          "caption": "第一批｜微信图片_20260625185520_564_18｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "微信图片_20260625185520_564_18.png"
+        },
+        {
+          "id": "wb-1-019",
+          "type": "image",
+          "src": "assets/white-background/wb-1-019.small.jpg",
+          "title": "微信图片_20260625185528_565_18",
+          "caption": "第一批｜微信图片_20260625185528_565_18｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "微信图片_20260625185528_565_18.png"
+        },
+        {
+          "id": "wb-1-020",
+          "type": "image",
+          "src": "assets/white-background/wb-1-020.small.jpg",
+          "title": "微信图片_20260625185535_566_18",
+          "caption": "第一批｜微信图片_20260625185535_566_18｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "微信图片_20260625185535_566_18.png"
+        },
+        {
+          "id": "wb-1-021",
+          "type": "image",
+          "src": "assets/white-background/wb-1-021.small.jpg",
+          "title": "截屏2026-04-28 20.12.33",
+          "caption": "第一批｜截屏2026-04-28 20.12.33｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "截屏2026-04-28 20.12.33.png"
+        },
+        {
+          "id": "wb-1-022",
+          "type": "image",
+          "src": "assets/white-background/wb-1-022.jpg",
+          "title": "旋风烤面筋",
+          "caption": "第一批｜旋风烤面筋｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "旋风烤面筋.png"
+        },
+        {
+          "id": "wb-1-023",
+          "type": "image",
+          "src": "assets/white-background/wb-1-023.small.jpg",
+          "title": "无骨肉-春日蜜桃酱替换版 (1)",
+          "caption": "第一批｜无骨肉-春日蜜桃酱替换版 (1)｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨肉-春日蜜桃酱替换版 (1).png"
+        },
+        {
+          "id": "wb-1-024",
+          "type": "image",
+          "src": "assets/white-background/wb-1-024.small.jpg",
+          "title": "无骨肉-春日蜜桃酱替换版",
+          "caption": "第一批｜无骨肉-春日蜜桃酱替换版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨肉-春日蜜桃酱替换版.png"
+        },
+        {
+          "id": "wb-1-025",
+          "type": "image",
+          "src": "assets/white-background/wb-1-025.small.jpg",
+          "title": "无骨肉-炸制小山叠压版",
+          "caption": "第一批｜无骨肉-炸制小山叠压版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨肉-炸制小山叠压版.png"
+        },
+        {
+          "id": "wb-1-026",
+          "type": "image",
+          "src": "assets/white-background/wb-1-026.small.jpg",
+          "title": "无骨肉-甜辣酱替换版 (1)",
+          "caption": "第一批｜无骨肉-甜辣酱替换版 (1)｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨肉-甜辣酱替换版 (1).png"
+        },
+        {
+          "id": "wb-1-027",
+          "type": "image",
+          "src": "assets/white-background/wb-1-027.small.jpg",
+          "title": "无骨肉-甜辣酱替换版",
+          "caption": "第一批｜无骨肉-甜辣酱替换版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨肉-甜辣酱替换版.png"
+        },
+        {
+          "id": "wb-1-028",
+          "type": "image",
+          "src": "assets/white-background/wb-1-028.small.jpg",
+          "title": "无骨肉-芝士粉撒粉版",
+          "caption": "第一批｜无骨肉-芝士粉撒粉版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨肉-芝士粉撒粉版.png"
+        },
+        {
+          "id": "wb-1-029",
+          "type": "image",
+          "src": "assets/white-background/wb-1-029.small.jpg",
+          "title": "无骨肉-芝士蛋黄酱替换版 (1)",
+          "caption": "第一批｜无骨肉-芝士蛋黄酱替换版 (1)｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨肉-芝士蛋黄酱替换版 (1).png"
+        },
+        {
+          "id": "wb-1-030",
+          "type": "image",
+          "src": "assets/white-background/wb-1-030.small.jpg",
+          "title": "无骨肉-芝士蛋黄酱替换版",
+          "caption": "第一批｜无骨肉-芝士蛋黄酱替换版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨肉-芝士蛋黄酱替换版.png"
+        },
+        {
+          "id": "wb-1-031",
+          "type": "image",
+          "src": "assets/white-background/wb-1-031.small.jpg",
+          "title": "无骨肉-草莓奶酪酱替换版 (1)",
+          "caption": "第一批｜无骨肉-草莓奶酪酱替换版 (1)｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨肉-草莓奶酪酱替换版 (1).png"
+        },
+        {
+          "id": "wb-1-032",
+          "type": "image",
+          "src": "assets/white-background/wb-1-032.small.jpg",
+          "title": "无骨肉-蜂蜜芥末酱替换版",
+          "caption": "第一批｜无骨肉-蜂蜜芥末酱替换版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨肉-蜂蜜芥末酱替换版.png"
+        },
+        {
+          "id": "wb-1-033",
+          "type": "image",
+          "src": "assets/white-background/wb-1-033.small.jpg",
+          "title": "无骨肉-越式蒜香酱替换版 (1)",
+          "caption": "第一批｜无骨肉-越式蒜香酱替换版 (1)｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨肉-越式蒜香酱替换版 (1).png"
+        },
+        {
+          "id": "wb-1-034",
+          "type": "image",
+          "src": "assets/white-background/wb-1-034.small.jpg",
+          "title": "无骨肉-越式蒜香酱替换版 (2)",
+          "caption": "第一批｜无骨肉-越式蒜香酱替换版 (2)｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨肉-越式蒜香酱替换版 (2).png"
+        },
+        {
+          "id": "wb-1-035",
+          "type": "image",
+          "src": "assets/white-background/wb-1-035.small.jpg",
+          "title": "无骨肉-越式蒜香酱替换版",
+          "caption": "第一批｜无骨肉-越式蒜香酱替换版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨肉-越式蒜香酱替换版.png"
+        },
+        {
+          "id": "wb-1-036",
+          "type": "image",
+          "src": "assets/white-background/wb-1-036.small.jpg",
+          "title": "无骨肉-韩式重辣酱替换版",
+          "caption": "第一批｜无骨肉-韩式重辣酱替换版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨肉-韩式重辣酱替换版.png"
+        },
+        {
+          "id": "wb-1-037",
+          "type": "image",
+          "src": "assets/white-background/wb-1-037.small.jpg",
+          "title": "无骨鸡-小山三角形叠压版",
+          "caption": "第一批｜无骨鸡-小山三角形叠压版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨鸡-小山三角形叠压版.png"
+        },
+        {
+          "id": "wb-1-038",
+          "type": "image",
+          "src": "assets/white-background/wb-1-038.small.jpg",
+          "title": "无骨鸡-沙拉酱淋面版",
+          "caption": "第一批｜无骨鸡-沙拉酱淋面版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨鸡-沙拉酱淋面版.png"
+        },
+        {
+          "id": "wb-1-039",
+          "type": "image",
+          "src": "assets/white-background/wb-1-039.small.jpg",
+          "title": "无骨鸡-规整瀑布淋酱版",
+          "caption": "第一批｜无骨鸡-规整瀑布淋酱版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "无骨鸡-规整瀑布淋酱版.png"
+        },
+        {
+          "id": "wb-1-040",
+          "type": "image",
+          "src": "assets/white-background/wb-1-040.small.jpg",
+          "title": "火鸡面-泡面质感形状版 (1)",
+          "caption": "第一批｜火鸡面-泡面质感形状版 (1)｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "火鸡面-泡面质感形状版 (1).png"
+        },
+        {
+          "id": "wb-1-041",
+          "type": "image",
+          "src": "assets/white-background/wb-1-041.small.jpg",
+          "title": "炸翅根-紧密贴合-粉色酱汁淋面版",
+          "caption": "第一批｜炸翅根-紧密贴合-粉色酱汁淋面版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "炸翅根-紧密贴合-粉色酱汁淋面版.png"
+        },
+        {
+          "id": "wb-1-042",
+          "type": "image",
+          "src": "assets/white-background/wb-1-042.small.jpg",
+          "title": "烤串1-8K-PNG格式",
+          "caption": "第一批｜烤串1-8K-PNG格式｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "烤串1-8K-PNG格式.png"
+        },
+        {
+          "id": "wb-1-043",
+          "type": "image",
+          "src": "assets/white-background/wb-1-043.small.jpg",
+          "title": "烤串2-8K-PNG格式",
+          "caption": "第一批｜烤串2-8K-PNG格式｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "烤串2-8K-PNG格式.png"
+        },
+        {
+          "id": "wb-1-044",
+          "type": "image",
+          "src": "assets/white-background/wb-1-044.jpg",
+          "title": "烤串2-8K高清质感优化 (3)",
+          "caption": "第一批｜烤串2-8K高清质感优化 (3)｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "烤串2-8K高清质感优化 (3).webp"
+        },
+        {
+          "id": "wb-1-045",
+          "type": "image",
+          "src": "assets/white-background/wb-1-045.jpg",
+          "title": "烤串3-8K高清质感优化 (1)",
+          "caption": "第一批｜烤串3-8K高清质感优化 (1)｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "烤串3-8K高清质感优化 (1).webp"
+        },
+        {
+          "id": "wb-1-046",
+          "type": "image",
+          "src": "assets/white-background/wb-1-046.small.jpg",
+          "title": "烤串4-8K-PNG格式",
+          "caption": "第一批｜烤串4-8K-PNG格式｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "烤串4-8K-PNG格式.png"
+        },
+        {
+          "id": "wb-1-047",
+          "type": "image",
+          "src": "assets/white-background/wb-1-047.jpg",
+          "title": "烤串5-8K高清质感优化 (1)",
+          "caption": "第一批｜烤串5-8K高清质感优化 (1)｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "烤串5-8K高清质感优化 (1).webp"
+        },
+        {
+          "id": "wb-1-048",
+          "type": "image",
+          "src": "assets/white-background/wb-1-048.jpg",
+          "title": "烤肠（半根） (1)",
+          "caption": "第一批｜烤肠（半根） (1)｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "烤肠（半根） (1).png"
+        },
+        {
+          "id": "wb-1-049",
+          "type": "image",
+          "src": "assets/white-background/wb-1-049.jpg",
+          "title": "白色年糕-红色酱汁淋面版",
+          "caption": "第一批｜白色年糕-红色酱汁淋面版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "白色年糕-红色酱汁淋面版.png"
+        },
+        {
+          "id": "wb-1-050",
+          "type": "image",
+          "src": "assets/white-background/wb-1-050.jpg",
+          "title": "白色年糕-黄色酱汁淋面版",
+          "caption": "第一批｜白色年糕-黄色酱汁淋面版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "白色年糕-黄色酱汁淋面版.png"
+        },
+        {
+          "id": "wb-1-051",
+          "type": "image",
+          "src": "assets/white-background/wb-1-051.jpg",
+          "title": "金星伴翅",
+          "caption": "第一批｜金星伴翅｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "金星伴翅.png"
+        },
+        {
+          "id": "wb-1-052",
+          "type": "image",
+          "src": "assets/white-background/wb-1-052.small.jpg",
+          "title": "韩式辣酱无骨鸡-小山峰造型版 (1)",
+          "caption": "第一批｜韩式辣酱无骨鸡-小山峰造型版 (1)｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "韩式辣酱无骨鸡-小山峰造型版 (1).png"
+        },
+        {
+          "id": "wb-1-053",
+          "type": "image",
+          "src": "assets/white-background/wb-1-053.small.jpg",
+          "title": "鸡块加沙拉酱",
+          "caption": "第一批｜鸡块加沙拉酱｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "鸡块加沙拉酱.png"
+        },
+        {
+          "id": "wb-1-054",
+          "type": "image",
+          "src": "assets/white-background/wb-1-054.small.jpg",
+          "title": "鸡块放入盒子-饱满版",
+          "caption": "第一批｜鸡块放入盒子-饱满版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "鸡块放入盒子-饱满版.png"
+        },
+        {
+          "id": "wb-1-055",
+          "type": "image",
+          "src": "assets/white-background/wb-1-055.small.jpg",
+          "title": "鸡柳加沙拉酱",
+          "caption": "第一批｜鸡柳加沙拉酱｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "鸡柳加沙拉酱.png"
+        },
+        {
+          "id": "wb-1-056",
+          "type": "image",
+          "src": "assets/white-background/wb-1-056.small.jpg",
+          "title": "鸡翅尖-提取造型白底PNG版",
+          "caption": "第一批｜鸡翅尖-提取造型白底PNG版｜AI 白底图优化成果",
+          "group": "第一批",
+          "originalFile": "鸡翅尖-提取造型白底PNG版.png"
+        },
+        {
+          "id": "wb-2-001",
+          "type": "image",
+          "src": "assets/white-background/wb-2-001.small.jpg",
+          "title": "Image (13)",
+          "caption": "第二批｜Image (13)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (13).png"
+        },
+        {
+          "id": "wb-2-002",
+          "type": "image",
+          "src": "assets/white-background/wb-2-002.small.jpg",
+          "title": "Image (17)",
+          "caption": "第二批｜Image (17)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (17).png"
+        },
+        {
+          "id": "wb-2-003",
+          "type": "image",
+          "src": "assets/white-background/wb-2-003.small.jpg",
+          "title": "Image (18)",
+          "caption": "第二批｜Image (18)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (18).png"
+        },
+        {
+          "id": "wb-2-004",
+          "type": "image",
+          "src": "assets/white-background/wb-2-004.small.jpg",
+          "title": "Image (20)",
+          "caption": "第二批｜Image (20)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (20).png"
+        },
+        {
+          "id": "wb-2-005",
+          "type": "image",
+          "src": "assets/white-background/wb-2-005.small.jpg",
+          "title": "Image (21)",
+          "caption": "第二批｜Image (21)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (21).png"
+        },
+        {
+          "id": "wb-2-006",
+          "type": "image",
+          "src": "assets/white-background/wb-2-006.jpg",
+          "title": "Image (22)",
+          "caption": "第二批｜Image (22)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (22).png"
+        },
+        {
+          "id": "wb-2-007",
+          "type": "image",
+          "src": "assets/white-background/wb-2-007.jpg",
+          "title": "Image (23)",
+          "caption": "第二批｜Image (23)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (23).png"
+        },
+        {
+          "id": "wb-2-008",
+          "type": "image",
+          "src": "assets/white-background/wb-2-008.small.jpg",
+          "title": "Image (25)",
+          "caption": "第二批｜Image (25)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (25).png"
+        },
+        {
+          "id": "wb-2-009",
+          "type": "image",
+          "src": "assets/white-background/wb-2-009.jpg",
+          "title": "Image (26)",
+          "caption": "第二批｜Image (26)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (26).png"
+        },
+        {
+          "id": "wb-2-010",
+          "type": "image",
+          "src": "assets/white-background/wb-2-010.small.jpg",
+          "title": "Image (27)",
+          "caption": "第二批｜Image (27)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (27).png"
+        },
+        {
+          "id": "wb-2-011",
+          "type": "image",
+          "src": "assets/white-background/wb-2-011.jpg",
+          "title": "Image (28)",
+          "caption": "第二批｜Image (28)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (28).png"
+        },
+        {
+          "id": "wb-2-012",
+          "type": "image",
+          "src": "assets/white-background/wb-2-012.jpg",
+          "title": "Image (29)",
+          "caption": "第二批｜Image (29)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (29).png"
+        },
+        {
+          "id": "wb-2-013",
+          "type": "image",
+          "src": "assets/white-background/wb-2-013.small.jpg",
+          "title": "Image (30)",
+          "caption": "第二批｜Image (30)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (30).png"
+        },
+        {
+          "id": "wb-2-014",
+          "type": "image",
+          "src": "assets/white-background/wb-2-014.small.jpg",
+          "title": "Image (31)",
+          "caption": "第二批｜Image (31)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (31).png"
+        },
+        {
+          "id": "wb-2-015",
+          "type": "image",
+          "src": "assets/white-background/wb-2-015.small.jpg",
+          "title": "Image (32)",
+          "caption": "第二批｜Image (32)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (32).png"
+        },
+        {
+          "id": "wb-2-016",
+          "type": "image",
+          "src": "assets/white-background/wb-2-016.small.jpg",
+          "title": "Image (38)",
+          "caption": "第二批｜Image (38)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (38).png"
+        },
+        {
+          "id": "wb-2-017",
+          "type": "image",
+          "src": "assets/white-background/wb-2-017.small.jpg",
+          "title": "Image (40)",
+          "caption": "第二批｜Image (40)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (40).png"
+        },
+        {
+          "id": "wb-2-018",
+          "type": "image",
+          "src": "assets/white-background/wb-2-018.small.jpg",
+          "title": "Image (5)",
+          "caption": "第二批｜Image (5)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (5).png"
+        },
+        {
+          "id": "wb-2-019",
+          "type": "image",
+          "src": "assets/white-background/wb-2-019.small.jpg",
+          "title": "Image (7)",
+          "caption": "第二批｜Image (7)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (7).png"
+        },
+        {
+          "id": "wb-2-020",
+          "type": "image",
+          "src": "assets/white-background/wb-2-020.small.jpg",
+          "title": "Image (8)",
+          "caption": "第二批｜Image (8)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image (8).png"
+        },
+        {
+          "id": "wb-2-021",
+          "type": "image",
+          "src": "assets/white-background/wb-2-021.small.jpg",
+          "title": "Image 1",
+          "caption": "第二批｜Image 1｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image 1.png"
+        },
+        {
+          "id": "wb-2-022",
+          "type": "image",
+          "src": "assets/white-background/wb-2-022.small.jpg",
+          "title": "Image 2",
+          "caption": "第二批｜Image 2｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image 2.png"
+        },
+        {
+          "id": "wb-2-023",
+          "type": "image",
+          "src": "assets/white-background/wb-2-023.online.jpg",
+          "title": "Image 32",
+          "caption": "第二批｜Image 32｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image 32.png"
+        },
+        {
+          "id": "wb-2-024",
+          "type": "image",
+          "src": "assets/white-background/wb-2-024.online.jpg",
+          "title": "Image 33",
+          "caption": "第二批｜Image 33｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image 33.png"
+        },
+        {
+          "id": "wb-2-025",
+          "type": "image",
+          "src": "assets/white-background/wb-2-025.online.small.jpg",
+          "title": "Image 57",
+          "caption": "第二批｜Image 57｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image 57.png"
+        },
+        {
+          "id": "wb-2-026",
+          "type": "image",
+          "src": "assets/white-background/wb-2-026.online.small.jpg",
+          "title": "Image 58",
+          "caption": "第二批｜Image 58｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image 58.png"
+        },
+        {
+          "id": "wb-2-027",
+          "type": "image",
+          "src": "assets/white-background/wb-2-027.online.small.jpg",
+          "title": "Image",
+          "caption": "第二批｜Image｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Image.png"
+        },
+        {
+          "id": "wb-2-028",
+          "type": "image",
+          "src": "assets/white-background/wb-2-028.online.small.jpg",
+          "title": "Mark Generation",
+          "caption": "第二批｜Mark Generation｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "Mark Generation.png"
+        },
+        {
+          "id": "wb-2-029",
+          "type": "image",
+          "src": "assets/white-background/wb-2-029.online.small.jpg",
+          "title": "正新鸡排双拼酱汁",
+          "caption": "第二批｜正新鸡排双拼酱汁｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "正新鸡排双拼酱汁.png"
+        },
+        {
+          "id": "wb-2-030",
+          "type": "image",
+          "src": "assets/white-background/wb-2-030.online.small.jpg",
+          "title": "正新鸡肉串 (1)",
+          "caption": "第二批｜正新鸡肉串 (1)｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "正新鸡肉串 (1).png"
+        },
+        {
+          "id": "wb-2-031",
+          "type": "image",
+          "src": "assets/white-background/wb-2-031.online.small.jpg",
+          "title": "炸鸡-红色酱汁淋面版1",
+          "caption": "第二批｜炸鸡-红色酱汁淋面版1｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "炸鸡-红色酱汁淋面版1.png"
+        },
+        {
+          "id": "wb-2-032",
+          "type": "image",
+          "src": "assets/white-background/wb-2-032.online.small.jpg",
+          "title": "炸鸡-黄色酱汁淋面版1",
+          "caption": "第二批｜炸鸡-黄色酱汁淋面版1｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "炸鸡-黄色酱汁淋面版1.png"
+        },
+        {
+          "id": "wb-2-033",
+          "type": "image",
+          "src": "assets/white-background/wb-2-033.online.small.jpg",
+          "title": "炸鸡腿-深红辣酱淋面版",
+          "caption": "第二批｜炸鸡腿-深红辣酱淋面版｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "炸鸡腿-深红辣酱淋面版.png"
+        },
+        {
+          "id": "wb-2-034",
+          "type": "image",
+          "src": "assets/white-background/wb-2-034.online.jpg",
+          "title": "炸鸡腿-白色沙拉酱淋面版",
+          "caption": "第二批｜炸鸡腿-白色沙拉酱淋面版｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "炸鸡腿-白色沙拉酱淋面版.png"
+        },
+        {
+          "id": "wb-2-035",
+          "type": "image",
+          "src": "assets/white-background/wb-2-035.online.small.jpg",
+          "title": "炸鸡腿-粉色草莓酱淋面版",
+          "caption": "第二批｜炸鸡腿-粉色草莓酱淋面版｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "炸鸡腿-粉色草莓酱淋面版.png"
+        },
+        {
+          "id": "wb-2-036",
+          "type": "image",
+          "src": "assets/white-background/wb-2-036.online.small.jpg",
+          "title": "炸鸡腿-芝士粉撒粉版",
+          "caption": "第二批｜炸鸡腿-芝士粉撒粉版｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "炸鸡腿-芝士粉撒粉版.png"
+        },
+        {
+          "id": "wb-2-037",
+          "type": "image",
+          "src": "assets/white-background/wb-2-037.online.small.jpg",
+          "title": "炸鸡腿-蒜蓉酱淋面版",
+          "caption": "第二批｜炸鸡腿-蒜蓉酱淋面版｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "炸鸡腿-蒜蓉酱淋面版.png"
+        },
+        {
+          "id": "wb-2-038",
+          "type": "image",
+          "src": "assets/white-background/wb-2-038.online.jpg",
+          "title": "炸鸡腿-蜂蜜芥末酱淋面版",
+          "caption": "第二批｜炸鸡腿-蜂蜜芥末酱淋面版｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "炸鸡腿-蜂蜜芥末酱淋面版.png"
+        },
+        {
+          "id": "wb-2-039",
+          "type": "image",
+          "src": "assets/white-background/wb-2-039.online.small.jpg",
+          "title": "炸鸡腿-辣椒粉撒粉版",
+          "caption": "第二批｜炸鸡腿-辣椒粉撒粉版｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "炸鸡腿-辣椒粉撒粉版.png"
+        },
+        {
+          "id": "wb-2-040",
+          "type": "image",
+          "src": "assets/white-background/wb-2-040.online.jpg",
+          "title": "炸鸡腿-黄色芝士酱淋面版",
+          "caption": "第二批｜炸鸡腿-黄色芝士酱淋面版｜AI 白底图优化成果",
+          "group": "第二批",
+          "originalFile": "炸鸡腿-黄色芝士酱淋面版.png"
+        }
+      ]
+    },
+    {
+      "projectId": "brand-video",
+      "items": [
+        {
+          "id": "video-board-001",
+          "type": "image",
+          "src": "assets/brand-video/video-board-001.online.small.jpg",
+          "title": "group (2)",
+          "caption": "视频分镜｜group (2)",
+          "group": "视频分镜",
+          "originalFile": "group (2).png"
+        },
+        {
+          "id": "video-board-002",
+          "type": "image",
+          "src": "assets/brand-video/video-board-002.online.small.jpg",
+          "title": "世界杯视频分镜",
+          "caption": "视频分镜｜世界杯视频分镜",
+          "group": "视频分镜",
+          "originalFile": "世界杯视频分镜.png"
+        },
+        {
+          "id": "brand-video-01",
+          "type": "video",
+          "src": "assets/brand-video/brand-video-01.mp4",
+          "title": "鸡王沙漠奇遇·横竖版之一",
+          "caption": "鸡王沙漠遇见鸡排仙人掌的趣味品牌内容｜8.87秒｜点击播放并支持全屏",
+          "group": "日常趣味短视频",
+          "originalFile": "166d6aed4e6d0a7eb6602b6a14328bbc.mp4",
+          "duration": "8.87秒"
+        },
+        {
+          "id": "brand-video-02",
+          "type": "video",
+          "src": "assets/brand-video/brand-video-02.mp4",
+          "title": "世界杯鸡王品牌宣传片",
+          "caption": "球场、奖杯、鸡王与品牌产品结合的世界杯传播视频｜37秒｜点击播放并支持全屏",
+          "group": "世界杯品牌主题",
+          "originalFile": "6d045aec67c5cd756311e3278ae1bec7.mp4",
+          "duration": "37秒"
+        },
+        {
+          "id": "brand-video-03",
+          "type": "video",
+          "src": "assets/brand-video/brand-video-03.mp4",
+          "title": "鸡王沙漠奇遇·横竖版之二",
+          "caption": "鸡王沙漠趣味内容的多比例适配版本｜11.07秒｜点击播放并支持全屏",
+          "group": "日常趣味短视频",
+          "originalFile": "83658983e6fa1ccae04928dc0d113710.mp4",
+          "duration": "11.07秒"
+        },
+        {
+          "id": "brand-video-04",
+          "type": "video",
+          "src": "assets/brand-video/brand-video-04.mp4",
+          "title": "鸡王端午趣味短片",
+          "caption": "鸡王与端午节元素结合的趣味品牌视频｜5.12秒｜点击播放并支持全屏",
+          "group": "端午节品牌主题",
+          "originalFile": "96b635cd14883f1f1b153871524f778d.mp4",
+          "duration": "5.12秒"
+        },
+        {
+          "id": "brand-video-05",
+          "type": "video",
+          "src": "assets/brand-video/brand-video-05.mp4",
+          "title": "鸡王赛龙舟端午短片",
+          "caption": "粽子、龙舟、水面竞速与节日传播内容｜18.7秒｜点击播放并支持全屏",
+          "group": "端午节品牌主题",
+          "originalFile": "9b5a3bd6040fb9dc73186727fa946a1c.mp4",
+          "duration": "18.7秒"
+        },
+        {
+          "id": "brand-video-06",
+          "type": "video",
+          "src": "assets/brand-video/brand-video-06.mp4",
+          "title": "鸡王蒸笼端午短片",
+          "caption": "蒸笼与端午场景结合的趣味短片｜4.7秒｜点击播放并支持全屏",
+          "group": "端午节品牌主题",
+          "originalFile": "a59818da01072767af7f0bd9e2facc1a.mp4",
+          "duration": "4.7秒"
+        },
+        {
+          "id": "brand-video-07",
+          "type": "video",
+          "src": "assets/brand-video/brand-video-07.mp4",
+          "title": "时代广场真实商业视频",
+          "caption": "真人模特手提正新纸袋穿行时代广场；当前为商业视频制作方向｜6.07秒｜点击播放并支持全屏",
+          "group": "真实商业视频",
+          "originalFile": "c3b19b679133bcb7eae1c6e8e521e071.mp4",
+          "duration": "6.07秒"
+        }
+      ]
+    },
+    {
+      "projectId": "brand-campaign",
+      "items": [
+        {
+          "id": "campaign-001",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-001.online.jpg",
+          "title": "Image 1",
+          "caption": "自助炸鸡菜单与产品视觉升级｜ Image 1",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": " Image 1.png"
+        },
+        {
+          "id": "campaign-002",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-002.online.jpg",
+          "title": "Image 2",
+          "caption": "自助炸鸡菜单与产品视觉升级｜ Image 2",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": " Image 2.png"
+        },
+        {
+          "id": "campaign-003",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-003.online.jpg",
+          "title": "Image 3",
+          "caption": "自助炸鸡菜单与产品视觉升级｜ Image 3",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": " Image 3.png"
+        },
+        {
+          "id": "campaign-004",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-004.online.jpg",
+          "title": "Image 4",
+          "caption": "自助炸鸡菜单与产品视觉升级｜ Image 4",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": " Image 4.png"
+        },
+        {
+          "id": "campaign-005",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-005.online.jpg",
+          "title": "Image",
+          "caption": "自助炸鸡菜单与产品视觉升级｜ Image",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": " Image.png"
+        },
+        {
+          "id": "campaign-006",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-006.online.jpg",
+          "title": "1",
+          "caption": "自助炸鸡菜单与产品视觉升级｜1",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": "1.png"
+        },
+        {
+          "id": "campaign-007",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-007.online.jpg",
+          "title": "2",
+          "caption": "自助炸鸡菜单与产品视觉升级｜2",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": "2.png"
+        },
+        {
+          "id": "campaign-008",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-008.online.jpg",
+          "title": "3",
+          "caption": "自助炸鸡菜单与产品视觉升级｜3",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": "3.png"
+        },
+        {
+          "id": "campaign-009",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-009.online.jpg",
+          "title": "4",
+          "caption": "自助炸鸡菜单与产品视觉升级｜4",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": "4.png"
+        },
+        {
+          "id": "campaign-010",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-010.online.jpg",
+          "title": "5",
+          "caption": "自助炸鸡菜单与产品视觉升级｜5",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": "5.png"
+        },
+        {
+          "id": "campaign-011",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-011.online.small.jpg",
+          "title": "Image (36)",
+          "caption": "自助炸鸡菜单与产品视觉升级｜Image (36)",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": "Image (36).png"
+        },
+        {
+          "id": "campaign-012",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-012.online.small.jpg",
+          "title": "Image (37)",
+          "caption": "自助炸鸡菜单与产品视觉升级｜Image (37)",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": "Image (37).png"
+        },
+        {
+          "id": "campaign-013",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-013.online.small.jpg",
+          "title": "Image (39)",
+          "caption": "自助炸鸡菜单与产品视觉升级｜Image (39)",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": "Image (39).png"
+        },
+        {
+          "id": "campaign-014",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-014.online.jpg",
+          "title": "Image 1",
+          "caption": "自助炸鸡菜单与产品视觉升级｜Image 1",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": "Image 1.png"
+        },
+        {
+          "id": "campaign-015",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-015.online.jpg",
+          "title": "Image 2",
+          "caption": "自助炸鸡菜单与产品视觉升级｜Image 2",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": "Image 2.png"
+        },
+        {
+          "id": "campaign-016",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-016.online.jpg",
+          "title": "Image 3",
+          "caption": "自助炸鸡菜单与产品视觉升级｜Image 3",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": "Image 3.png"
+        },
+        {
+          "id": "campaign-017",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-017.online.jpg",
+          "title": "Image 4",
+          "caption": "自助炸鸡菜单与产品视觉升级｜Image 4",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": "Image 4.png"
+        },
+        {
+          "id": "campaign-018",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-018.online.jpg",
+          "title": "Image 5",
+          "caption": "自助炸鸡菜单与产品视觉升级｜Image 5",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": "Image 5.png"
+        },
+        {
+          "id": "campaign-019",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-019.online.jpg",
+          "title": "Image 6",
+          "caption": "自助炸鸡菜单与产品视觉升级｜Image 6",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": "Image 6.png"
+        },
+        {
+          "id": "campaign-020",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-020.online.jpg",
+          "title": "Image",
+          "caption": "自助炸鸡菜单与产品视觉升级｜Image",
+          "group": "自助炸鸡菜单与产品视觉升级",
+          "originalFile": "Image.png"
+        },
+        {
+          "id": "campaign-021",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-021.online.jpg",
+          "title": "世界杯MV",
+          "caption": "世界杯品牌营销活动｜世界杯MV",
+          "group": "世界杯品牌营销活动",
+          "originalFile": "世界杯MV.png"
+        },
+        {
+          "id": "campaign-022",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-022.online.small.jpg",
+          "title": "套餐一-加品牌标识",
+          "caption": "世界杯品牌营销活动｜套餐一-加品牌标识",
+          "group": "世界杯品牌营销活动",
+          "originalFile": "套餐一-加品牌标识.png"
+        },
+        {
+          "id": "campaign-023",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-023.small.jpg",
+          "title": "套餐三",
+          "caption": "世界杯品牌营销活动｜套餐三",
+          "group": "世界杯品牌营销活动",
+          "originalFile": "套餐三.jpg"
+        },
+        {
+          "id": "campaign-024",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-024.online.small.jpg",
+          "title": "套餐二",
+          "caption": "世界杯品牌营销活动｜套餐二",
+          "group": "世界杯品牌营销活动",
+          "originalFile": "套餐二.png"
+        },
+        {
+          "id": "campaign-025",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-025.online.small.jpg",
+          "title": "套餐四",
+          "caption": "世界杯品牌营销活动｜套餐四",
+          "group": "世界杯品牌营销活动",
+          "originalFile": "套餐四.png"
+        },
+        {
+          "id": "campaign-026",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-026.online.small.jpg",
+          "title": "炸鸡3杯-红白底图-4比3横版",
+          "caption": "世界杯品牌营销活动｜炸鸡3杯-红白底图-4比3横版",
+          "group": "世界杯品牌营销活动",
+          "originalFile": "炸鸡3杯-红白底图-4比3横版.png"
+        },
+        {
+          "id": "campaign-027",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-027.online.small.jpg",
+          "title": "炸鸡3杯-红白底图-视觉居中",
+          "caption": "世界杯品牌营销活动｜炸鸡3杯-红白底图-视觉居中",
+          "group": "世界杯品牌营销活动",
+          "originalFile": "炸鸡3杯-红白底图-视觉居中.png"
+        },
+        {
+          "id": "campaign-028",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-028.online.small.jpg",
+          "title": "炸鸡烤串四品套餐展示图-1比1",
+          "caption": "世界杯品牌营销活动｜炸鸡烤串四品套餐展示图-1比1",
+          "group": "世界杯品牌营销活动",
+          "originalFile": "炸鸡烤串四品套餐展示图-1比1.png"
+        },
+        {
+          "id": "campaign-029",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-029.small.jpg",
+          "title": "炸鸡烤串四品套餐展示图-4比3",
+          "caption": "世界杯品牌营销活动｜炸鸡烤串四品套餐展示图-4比3",
+          "group": "世界杯品牌营销活动",
+          "originalFile": "炸鸡烤串四品套餐展示图-4比3.jpg"
+        },
+        {
+          "id": "campaign-030",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-030.online.small.jpg",
+          "title": "炸鸡烤串混合-红白底图-4比3横版",
+          "caption": "世界杯品牌营销活动｜炸鸡烤串混合-红白底图-4比3横版",
+          "group": "世界杯品牌营销活动",
+          "originalFile": "炸鸡烤串混合-红白底图-4比3横版.png"
+        },
+        {
+          "id": "campaign-031",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-031.online.small.jpg",
+          "title": "烤串2杯-红白底图-4比3-视觉居中 (1)",
+          "caption": "世界杯品牌营销活动｜烤串2杯-红白底图-4比3-视觉居中 (1)",
+          "group": "世界杯品牌营销活动",
+          "originalFile": "烤串2杯-红白底图-4比3-视觉居中 (1).png"
+        },
+        {
+          "id": "campaign-032",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-032.online.small.jpg",
+          "title": "烤串3杯-红白底图-4比3横版",
+          "caption": "世界杯品牌营销活动｜烤串3杯-红白底图-4比3横版",
+          "group": "世界杯品牌营销活动",
+          "originalFile": "烤串3杯-红白底图-4比3横版.png"
+        },
+        {
+          "id": "campaign-033",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-033.online.small.jpg",
+          "title": "烤串啤酒2杯-居中构图红白底图",
+          "caption": "世界杯品牌营销活动｜烤串啤酒2杯-居中构图红白底图",
+          "group": "世界杯品牌营销活动",
+          "originalFile": "烤串啤酒2杯-居中构图红白底图.png"
+        },
+        {
+          "id": "campaign-034",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-034.small.jpg",
+          "title": "自助炸鸡外卖优化1",
+          "caption": "自助炸鸡包装与品牌符号升级｜自助炸鸡外卖优化1 ",
+          "group": "自助炸鸡包装与品牌符号升级",
+          "originalFile": "自助炸鸡外卖优化1 .jpg"
+        },
+        {
+          "id": "campaign-035",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-035.small.jpg",
+          "title": "自助炸鸡外卖优化2",
+          "caption": "自助炸鸡包装与品牌符号升级｜自助炸鸡外卖优化2",
+          "group": "自助炸鸡包装与品牌符号升级",
+          "originalFile": "自助炸鸡外卖优化2.jpg"
+        },
+        {
+          "id": "campaign-036",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-036.small.jpg",
+          "title": "自助炸鸡外卖优化3",
+          "caption": "自助炸鸡包装与品牌符号升级｜自助炸鸡外卖优化3",
+          "group": "自助炸鸡包装与品牌符号升级",
+          "originalFile": "自助炸鸡外卖优化3.jpg"
+        },
+        {
+          "id": "campaign-037",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-037.small.jpg",
+          "title": "自助炸鸡外卖优化4",
+          "caption": "自助炸鸡包装与品牌符号升级｜自助炸鸡外卖优化4",
+          "group": "自助炸鸡包装与品牌符号升级",
+          "originalFile": "自助炸鸡外卖优化4.png"
+        },
+        {
+          "id": "campaign-038",
+          "type": "image",
+          "src": "assets/brand-campaign/campaign-038.png",
+          "title": "自助炸鸡白底图形象升级",
+          "caption": "自助炸鸡包装与品牌符号升级｜自助炸鸡白底图形象升级",
+          "group": "自助炸鸡包装与品牌符号升级",
+          "originalFile": "自助炸鸡白底图形象升级.png"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "service-pack": 66,
+    "image-agent": 10,
+    "voice-agent": 0,
+    "mobile-image-platform": 7,
+    "white-background": 96,
+    "brand-video": 9,
+    "brand-campaign": 38
+  }
+}

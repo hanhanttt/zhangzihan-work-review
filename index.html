@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="张子涵近三个月工作成果：数据驾驶舱、项目展厅与业务闭环" />
+  <title>近三个月工作成果｜张子涵</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="media.css" />
+  <link rel="stylesheet" href="future.css" />
+  <link rel="stylesheet" href="future-layout.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#top">ZHANG ZIHAN · WORK REVIEW</a>
+    <nav aria-label="主导航">
+      <a href="#dashboard">数据驾驶舱</a><a href="#gallery">项目展厅</a><a href="#loop">业务闭环</a><a href="#future">后续安排</a>
+    </nav>
+  </header>
+  <main id="top">
+    <section class="hero">
+      <p class="eyebrow">近三个月工作成果</p>
+      <h1>把 AI 内容能力，变成<br><span>可复用的业务生产力</span></h1>
+      <p class="hero-copy">覆盖内部部门、加盟商与门店，从内容生产、服务包使用到品牌传播，形成可量化、可追溯、可迭代的工作闭环。</p>
+      <div class="hero-actions"><a class="button primary" href="#dashboard">查看核心数据</a><a class="button" href="#gallery">浏览全部项目</a></div>
+    </section>
+
+    <section id="dashboard" class="section">
+      <div class="section-head"><div><p class="eyebrow">01 · DATA COCKPIT</p><h2>数据驾驶舱</h2></div><p>先看结果，再看过程。所有数字严格使用已确认口径。</p></div>
+      <div id="metric-grid" class="metric-grid"></div>
+      <div class="panel split">
+        <div><p class="panel-label">服务包成果构成</p><div id="package-bars" class="bars"></div></div>
+        <div><p class="panel-label">权威口径</p><ul class="notes"><li>6,776 为“总使用次数”，不是点击量。</li><li>独立主做 8 个服务包，共 655 次。</li><li>辅助覆盖 9 个产品、18 个服务包，共 6,121 次。</li><li>辅助成果占整体使用量 90.3%。</li></ul></div>
+      </div>
+    </section>
+
+    <section id="gallery" class="section">
+      <div class="section-head"><div><p class="eyebrow">02 · PROJECT GALLERY</p><h2>项目展厅</h2></div><p>按项目组织图片与视频；新增素材只需修改 media-map.json。</p></div>
+      <div id="project-tabs" class="tabs" role="tablist"></div>
+      <article id="project-view" class="project-view"></article>
+    </section>
+
+    <section id="loop" class="section">
+      <div class="section-head"><div><p class="eyebrow">03 · BUSINESS LOOP</p><h2>业务闭环</h2></div><p>每一项工作都从问题出发，用结果验证，再进入下一轮迭代。</p></div>
+      <div id="loop-flow" class="loop-flow"></div>
+      <div id="project-loops" class="loop-cards"></div>
+    </section>
+
+    <section id="future" class="section future-section">
+      <div class="section-head"><div><p class="eyebrow">04 · NEXT ACTIONS</p><h2>后续工作安排</h2></div><p>以业务反馈推动工具迭代，以门店经营场景验证服务包价值。</p></div>
+      <div id="future-plan-grid" class="future-plan-grid"></div>
+    </section>
+
+    <section class="section platform-section">
+      <div class="section-head"><div><p class="eyebrow">PLATFORM ACCESS</p><h2>AI 平台入口</h2></div><p>仅提供安全跳转，不在网页源码中保存账号和密码。</p></div>
+      <div id="platform-grid" class="platform-grid"></div>
+    </section>
+  </main>
+  <dialog id="lightbox"><button id="lightbox-close" aria-label="关闭">×</button><button id="lightbox-prev" class="lightbox-nav" aria-label="上一张">‹</button><img id="lightbox-image" alt="" /><button id="lightbox-next" class="lightbox-nav" aria-label="下一张">›</button><p id="lightbox-caption"></p></dialog>
+  <footer>数据驱动 · 项目可视 · 闭环复盘</footer>
+  <script src="app.js?v=20260713-agent"></script>
+</body>
+</html>
