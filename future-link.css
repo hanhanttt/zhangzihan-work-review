@@ -1,0 +1,18 @@
+.future-plan-link {
+  position: relative;
+  z-index: 1;
+  display: inline-flex;
+  margin: -8px 0 24px;
+  padding: 10px 14px;
+  border: 1px solid #7a313c;
+  border-radius: 10px;
+  background: #301218;
+  color: #ffd55c;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.future-plan-link:hover {
+  border-color: var(--yellow);
+  background: #451922;
+}
